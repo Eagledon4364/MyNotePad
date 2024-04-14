@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/FunctionColor.java;C:/projects/MyNotePad/src/FunctionEdit.java;C:/projects/MyNotePad/src/FunctionFile.java;C:/projects/MyNotePad/src/FunctionFormat.java;C:/projects/MyNotePad/src/Gui.java;C:/projects/MyNotePad/src/MyKeyHandler.java" />
+    <option name="forceFullIndex" value="false" />
+    <option name="fileSummaryMaps" value="{&quot;C:/projects/MyNotePad&quot;:&quot;{\&quot;/src/Gui.java\&quot;:\&quot;\\npublic class Gui implements ActionListener {\&quot;,\&quot;/src/FunctionEdit.java\&quot;:\&quot;\\npublic class FunctionEdit {\\r\&quot;,\&quot;/src/FunctionColor.java\&quot;:\&quot;\\npublic class FunctionColor {\\r\&quot;,\&quot;/src/FunctionFile.java\&quot;:\&quot;\\npublic class FunctionFile {\\r\&quot;,\&quot;/src/FunctionFormat.java\&quot;:\&quot;\\npublic class FunctionFormat {\\r\&quot;,\&quot;/src/MyKeyHandler.java\&quot;:\&quot;\\npublic class MyKeyHandler implements KeyListener {\\r\&quot;}&quot;}" />
+  </component>
+</project>

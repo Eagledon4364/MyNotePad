@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyNotePad:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyNotePad_jar</output-path>
+    <root id="archive" name="MyNotePad.jar">
+      <element id="module-output" name="MyNotePad" />
+    </root>
+  </artifact>
+</component>
